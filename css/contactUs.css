@@ -1,0 +1,143 @@
+.headerImg {
+    background-image: url(../images/contactUs/image7.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 480px;
+}
+
+.header {
+    background-color: #fff;
+}
+
+.table thead{
+    border-width: 20px;
+}
+
+.cart{
+    border-width: 20px;
+}
+
+.contactUs {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.crosses {
+    padding-bottom: 10px;
+}
+
+.contactUs_title {
+    font-size: 44px;
+}
+
+.contactUs_item input, textarea {
+    background: #FFFFFF;
+    border: 1px solid #DADADA;
+    border-radius: 10px;
+    width: 100%;
+    padding: 13px;
+}
+
+.contactUs_item select {
+    background: #FFFFFF;
+    border: 1px solid #DADADA;
+    border-radius: 10px;
+    width: 100%;
+    padding: 16px;
+}
+
+.contactUs_item textarea {
+    height: 387px;
+    resize: none;
+}
+
+.bucket{
+    padding-left: 13px;
+}
+
+button{
+    white-space: nowrap;
+}
+
+.code_button button {
+    background-color: #57984C;
+    border: 0px;
+    border-radius: 60px;
+    padding: 13px 60px 13px 60px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.code_button button:hover {
+    background: #67b15a;
+}
+
+
+.contactUs_item {
+    padding-top: 20px;
+}
+
+.contactUs_Name {
+    font-size: 17px;
+}
+
+.address {
+    background-color: #fff;
+    padding: 50px 0;
+}
+
+.address p {
+    margin-bottom: 0;
+}
+
+.address h3 {
+    font-size: 20px;
+    color: #57984C;
+}
+
+.address_text {
+    text-align: center;
+}
+
+.address_text .line {
+    padding: 20px;
+}
+
+@media (max-width: 1200px){
+    .code_button button {
+        padding: 13px 40px 13px 40px;
+    }
+}
+
+
+@media (max-width: 991px){
+    .code_button button {
+        margin-top: 20px;
+    }
+    .code_button {
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+@media (max-width: 767px){
+    .headerImg {
+        height: 250px;
+        background-position: center;
+    }
+    .search {
+        margin-bottom: 20px;
+    }
+    .crosses {
+        display: flex;
+        justify-content: center;
+    }
+    .contactUs_title {
+        display: flex;
+        justify-content: center;
+    }
+    .contactUs_item img{
+        margin-bottom: 10px;
+    }
+}
