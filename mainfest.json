@@ -41,9 +41,9 @@
     "start_url": "/index.html",
     "scope": ".",
     "display": "standalone",
-    "orientation": "portrait-primary",
-    "background_color": "#fff",
-    "theme_color": "#57984C",
+    "orientation": "portrait",
+    "background_color": "#f8f0c1",
+    "theme_color": "#57984c",
     "description": "A simple shop.",
     "dir": "ltr",
     "lang": "en-US"
