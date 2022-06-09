@@ -43,7 +43,7 @@
     "display": "standalone",
     "orientation": "portrait-primary",
     "background_color": "#f8f0c1",
-    "theme_color": "#008000",
+    "theme_color": "#57984c",
     "description": "A simple shop.",
     "dir": "ltr",
     "lang": "en-US"
