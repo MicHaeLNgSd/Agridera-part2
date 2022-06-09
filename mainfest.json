@@ -41,7 +41,7 @@
     "start_url": "/index.html",
     "scope": ".",
     "display": "standalone",
-    "orientation": "portrait",
+    "orientation": "portrait-primary",
     "background_color": "#f8f0c1",
     "theme_color": "#57984c",
     "description": "A simple shop.",
